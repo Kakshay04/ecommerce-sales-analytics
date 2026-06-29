@@ -105,6 +105,12 @@ Interactive Tableau Dashboard
 ```
 
 ---
+## 🗄 Database Schema (ER Diagram)
+
+The project integrates multiple relational tables from the Olist Brazilian E-Commerce Dataset. The following ER diagram illustrates the relationships between customers, orders, products, sellers, payments, and reviews.
+
+![ER Diagram](images/er_diagram.png)
+
 
 # 📁 Project Structure
 
