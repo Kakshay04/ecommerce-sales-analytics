@@ -8,11 +8,7 @@ The project demonstrates the complete analytics workflow—from raw data cleanin
 
 ## 📊 Dashboard Preview
 
-> **Add your dashboard screenshot here after exporting it from Tableau.**
-
-```markdown
 ![Dashboard](images/dashboard.png)
-```
 
 ---
 
